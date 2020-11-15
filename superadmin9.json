@@ -1,10 +1,10 @@
 [{
 	"name": "Total.js 4: Code",
-	"url": "https://cdn.totaljs.com/templates/code.package"
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/code.zip"
 }, {
 	"name": "Total.js 4: CMS",
-	"url": "https://cdn.totaljs.com/templates/cms.package"
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/cms.zip"
 }, {
 	"name": "Total.js 4: Flow",
-	"url": "https://cdn.totaljs.com/templates/emptyproject-flow.package"
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/flow.zip"
 }]

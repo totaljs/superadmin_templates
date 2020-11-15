@@ -1,2 +1,3 @@
-# superadmin_templates
-SuperAdmin templates
+# SuperAdmin templates
+
+This repository contains all app templates for SuperAdmin v9.
