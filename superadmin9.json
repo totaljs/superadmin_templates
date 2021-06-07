@@ -1,10 +1,13 @@
 [{
 	"name": "Total.js 4: Code",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/code.zip"
-}, {
+},{
 	"name": "Total.js 4: CMS",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/cms.zip"
-}, {
+},{
+	"name": "Total.js 4: OpenPlatform Embedded",
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/openplatform_embedded.zip"
+},{
 	"name": "Total.js 3: Flow",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/flow.zip"
 }]
