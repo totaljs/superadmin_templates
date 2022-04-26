@@ -8,24 +8,15 @@
 	"name": "Total.js 4: OpenPlatform Embedded",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/openplatform.zip"
 },{
-	"name": "Total.js 4: FlowStream",
-	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/flowstream.zip"
+	"name": "Total.js 4: Flow v10",
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/flow.zip"
 },{
-	"name": "Total.js 4: TMS integrator",
-	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/tms.zip"
-},{
-	"name": "Total.js 4: OpenSocial",
-	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/opensocial.zip"
-},{
-	"name": "Total.js 4: OpenDB",
-	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/opendb.zip"
+	"name": "Total.js 4: OpenAuth",
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/openauth.zip"
 },{
 	"name": "Total.js 4: OpenSync",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/opensync.zip"
 },{
 	"name": "Total.js 4: Files",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/files.zip"
-},{
-	"name": "Total.js 4: Flow",
-	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/flow.zip"
 }]
