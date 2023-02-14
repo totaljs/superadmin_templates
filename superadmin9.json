@@ -20,9 +20,12 @@
 	"name": "Total.js 4: OpenMail",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/openmail.zip"
 },{
+	"name": "Total.js 4: OpenTemplates",
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/opentemplates.zip"
+},{
 	"name": "Total.js 4: OpenFiles",
 	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/openfiles.zip"
 },{
-	"name": "Total.js 4: Files",
-	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/files.zip"
+	"name": "Total.js 4: Total DB",
+	"url": "https://raw.githubusercontent.com/totaljs/superadmin_templates/main/totaldb.zip"
 }]
